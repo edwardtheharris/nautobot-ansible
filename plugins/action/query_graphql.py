@@ -3,8 +3,6 @@
 # GNU General Public License v3.0+ (see COPYING or https://www.gnu.org/licenses/gpl-3.0.txt)
 """Nautobot Action Plugin to Query GraphQL."""
 
-from __future__ import absolute_import, division, print_function
-
 import os
 
 from ansible.module_utils.six import raise_from

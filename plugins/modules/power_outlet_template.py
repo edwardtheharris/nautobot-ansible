@@ -4,7 +4,6 @@
 # Licensed under the GNU General Public License v3.0 only
 # SPDX-License-Identifier: GPL-3.0-only
 
-from __future__ import absolute_import, division, print_function
 
 __metaclass__ = type
 

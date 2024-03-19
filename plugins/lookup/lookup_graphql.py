@@ -5,8 +5,6 @@
 A lookup function designed to return data from the Nautobot GraphQL endpoint
 """
 
-from __future__ import absolute_import, division, print_function
-
 __metaclass__ = type
 
 DOCUMENTATION = """

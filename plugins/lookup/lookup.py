@@ -9,8 +9,6 @@ nautobot.py
 A lookup function designed to return data from the Nautobot application
 """
 
-from __future__ import absolute_import, division, print_function
-
 __metaclass__ = type
 
 DOCUMENTATION = """
